@@ -1,0 +1,14 @@
+XMM Science Analysis System - GUI version 1.52.9
+Started on Fri Dec 11 09:53:57 2015
+
+@@ SAS_SUPPRESS_WARNING=1; export SAS_SUPPRESS_WARNING
+@@ SAS_CCF=.; export SAS_CCF
+@@ SAS_CCFPATH=/dsm/sappccosmos0/work/lfacciol/Simulations/jls/resume_XMM_work/xmm/ccf; export SAS_CCFPATH
+@@ cd /dsm/sappccosmos0/work/lfacciol/icosmo/pyxcosmo/test_data/init_cmp_dndcr_out
+@@ HOME=/local/home/lfacciol; export HOME
+@@ SAS_MEMORY_MODEL=high; export SAS_MEMORY_MODEL
+@@ SAS_ODF=.; export SAS_ODF
+@@ SAS_VERBOSITY=4; export SAS_VERBOSITY
+
+Session ended Fri Dec 11 09:54:22 2015
+

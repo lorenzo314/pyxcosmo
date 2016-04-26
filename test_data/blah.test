@@ -1,0 +1,10 @@
+## XCLASS pointing table
+## Command : mk_pointings_table,allxclass_10ks.cat,test_10ks,10000.0,200.000
+## Created by N.Clerc
+##
+## POINT_NAME | RA_PNT |  DEC_PNT |  BACK |  NH |  MOS1FILTER  |  MOS2FILTER  |  PNFILTER |   EXPOTIME
+#
+0001930101_10ks		|	      6.55321	|	      10.6735	|	     2.0	|	  3e+20	|	Thin1	|	Thin1	|	Thin1	|	10ks | 100.
+#0001930101_20ks	|	      6.55321	|	      10.6735	|	     3.5	|	  3e+20	|	Thin1	|	Thin1	|	Thin1	|	20ks | 58.7
+#0001930101_10ks	|	      6.55321	|	      10.6735	|	     2.6	|	  3e+20	|	Thin1	|	Thin1	|	Thin1	|	10ks | 11.60
+#0001930101_20ks	|	      6.55321	|	      10.6735	|	     2.3	|	  3e+20	|	Thin1	|	Thin1	|	Thin1	|	20ks | 14.14
